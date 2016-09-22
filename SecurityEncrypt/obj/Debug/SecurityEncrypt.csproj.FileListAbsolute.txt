@@ -1,0 +1,4 @@
+C:\Users\ld71\Desktop\SecurityEncrypt\SecurityEncrypt\bin\Debug\SecurityEncrypt.dll
+C:\Users\ld71\Desktop\SecurityEncrypt\SecurityEncrypt\bin\Debug\SecurityEncrypt.pdb
+C:\Users\ld71\Desktop\SecurityEncrypt\SecurityEncrypt\obj\Debug\SecurityEncrypt.dll
+C:\Users\ld71\Desktop\SecurityEncrypt\SecurityEncrypt\obj\Debug\SecurityEncrypt.pdb
